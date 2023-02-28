@@ -1,5 +1,6 @@
 # Module_1_Challenge: Apple Pay Later
 Case Study of a FinTech Domain: Apple Pay Later
+
 Submission By: Athura Melissa Thavathasan
 
 ![image](https://user-images.githubusercontent.com/125240804/221737593-f513066d-1843-4a30-bfd5-3a37aa563ab6.png)
