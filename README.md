@@ -13,6 +13,7 @@ Apple has been exploring the advancement of technology for decades. Apple has re
 * When was the company incorporated? * Who are the founders of the company?
 
 Apple was incorporated in 1976, by the company's founders Steve Jobs and Steve Wozniak. Apple Pay was released in October, 2014. 
+
 ![image](https://user-images.githubusercontent.com/125240804/221737878-f1eba3ee-3a32-4cb9-ab20-7d2839b113d8.png)
 
 * How did the idea for the company (or project) come about?
@@ -53,9 +54,11 @@ Apple Pay uses Near Field Communication (NFC) technology to establish the contac
 * Apple Pay Later is in the "Buy Now, Pay Later" or BNPL industry under the paments and billing fintech domain.
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
+
 ![image](https://user-images.githubusercontent.com/125240804/221738260-8405b378-2ac0-4e47-b1a2-1f619a64c0f5.png)
 
 BNPL has progressed through substantial growth over the past 5-10 years. These trends include expansion, partnerships and inclusionof digital wallets and payment options. 
+
         1. Expansion of Market: The BNPL industry has expanded global in the recent years, with emerging companies.
         2. Partnerships: BNPL service provides are collborating with retails to provide their services at the time of sales easily.
         3. Ditigal Wallets: The payment experience has because digitable access via electronic wallets like google wallet or apple wallet.
@@ -68,10 +71,12 @@ Major companies in the BNPL domain consits of Klarna, Afterpa, Affirm and Paypal
 ## Results
 
 * What has been the business impact of this company so far?
-    As of now Apple Pay Later is still to be released, the inital annonucement gathered a viwership of 23 million. Apple iphone consist of about half of the smartphone industry. Iphone users are more likely to use Apple Pay and Apple Pay Later. This creates a potential for drastic change of users from other BNPL platforms.
+
+As of now Apple Pay Later is still to be released, the inital annonucement gathered a viwership of 23 million. Apple iphone consist of about half of the smartphone industry. Iphone users are more likely to use Apple Pay and Apple Pay Later. This creates a potential for drastic change of users from other BNPL platforms.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-    BNPL companies utilize core metrics like conversion rate, ticket size. Other metrics that can be utilized are reduction in cart abandonment rates and customer lifetime value (CLV) As of now there is no real-time metric measures as the feature Apply Pay Later is not released.
+
+BNPL companies utilize core metrics like conversion rate, ticket size. Other metrics that can be utilized are reduction in cart abandonment rates and customer lifetime value (CLV) As of now there is no real-time metric measures as the feature Apply Pay Later is not released.
 
 * How is your company performing relative to competitors in the same domain?
 
