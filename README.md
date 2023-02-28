@@ -51,7 +51,7 @@ Apple Pay uses Near Field Communication (NFC) technology to establish the contac
 
 * What domain of the financial industry is the company in?
 
-* Apple Pay Later is in the "Buy Now, Pay Later" or BNPL industry under the paments and billing fintech domain.
+Apple Pay Later is in the "Buy Now, Pay Later" or BNPL industry under the paments and billing fintech domain.
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
@@ -90,7 +90,7 @@ Offering this service will change how transaction happen in a daily basis. Consu
 
 * What technologies would this additional product or service utilise?
 
-This will require an imperative risk governance system to ensure payment and credit limitations. Which can be achieved with Enterprise Risk Management (ERM) Software and Governance, Risk, and Compliance (GRC.  
+This will require an imperative risk governance system to ensure payment and credit limitations. Which can be achieved with Enterprise Risk Management (ERM) Software and Governance, Risk, and Compliance (GRC).  
 
 * Why are these technologies appropriate for your solution?
 
