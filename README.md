@@ -59,10 +59,10 @@ Apple Pay uses Near Field Communication (NFC) technology to establish the contac
 
 BNPL has progressed through substantial growth over the past 5-10 years. These trends include expansion, partnerships and inclusionof digital wallets and payment options. 
 
-        1. Expansion of Market: The BNPL industry has expanded global in the recent years, with emerging companies.
-        2. Partnerships: BNPL service provides are collborating with retails to provide their services at the time of sales easily.
-        3. Ditigal Wallets: The payment experience has because digitable access via electronic wallets like google wallet or apple wallet.
-        4. Payment Options: BNPL providers have expanded payment options to aid consumers, by spliting a large sum into smaller payments. Making products and services more affordable, while increasing consumation.
+1. Expansion of Market: The BNPL industry has expanded global in the recent years, with emerging companies.
+2. Partnerships: BNPL service provides are collborating with retails to provide their services at the time of sales easily.
+3. Ditigal Wallets: The payment experience has because digitable access via electronic wallets like google wallet or apple wallet.
+4. Payment Options: BNPL providers have expanded payment options to aid consumers, by spliting a large sum into smaller payments. Making products and services more affordable, while increasing consumation.
 
 * What are the other major companies in this domain?
 
