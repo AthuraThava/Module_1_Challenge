@@ -78,17 +78,23 @@ As of now Apple Pay Later is still to be released, the inital annonucement gathe
 
 BNPL companies utilize core metrics like conversion rate, ticket size. Other metrics that can be utilized are reduction in cart abandonment rates and customer lifetime value (CLV) As of now there is no real-time metric measures as the feature Apply Pay Later is not released.
 
-* How is your company performing relative to competitors in the same domain?
-
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? 
+
+Apple Pay Later could offer an option to adjustment payment amounts, and allow for notifications about payments and balances. This would allow consumers to adjust their payment amount according to their situation, instead of equivalent payment amounts. Apple Pay could set a minimum amount the consumer must pay as a default. But allow consumers to make additional payments to the balance owned. Notification will allow the users to ensure money is avaliable in the selected payment method. Apple Pay should allow consumers to BNPL any transaction including in-person retail purchases. This allow the consumers to pay for groceries over time instead of in a bulk payment.
 
 * Why do you think that offering this product or service would benefit the company?
 
+Offering this service will change how transaction happen in a daily basis. Consumers will be able to have products on hand and utilize them to it's full extend prior to it's full payment. This will make consumption affordable and will provide the advantage of avoid annual fees and interests. More user will transition over to iphone and apple wallet as it becomes a customary event.
+
 * What technologies would this additional product or service utilise?
 
+This will require an imperative risk governance system to ensure payment and credit limitations. Which can be achieved with Enterprise Risk Management (ERM) Software and Governance, Risk, and Compliance (GRC.  
+
 * Why are these technologies appropriate for your solution?
+
+These technologies will ensure that an individual can't utilize monetary advances that the aren't able to pay back in a period of time and allow for customers to manage their income efficiently.
 
 ## References
 
@@ -105,4 +111,4 @@ https://www.macworld.com/article/1507134/apple-pay-later-service-is-getting-read
 * https://www.makeuseof.com/apple-pay-later-bad-news-for-affirm-and-klarna/
 * https://blog.paybright.com/en/bright-ideas/6-key-ecommerce-metrics-you-can-improve-with-buy-now-pay-later
 * https://www.skeps.com/blog/buy-now-pay-later-for-retailers-what-why-and-how-skp#:~:text=The%20two%20key%20metrics%20that,business%20model%20in%20two%20ways.
-
+* https://www.garp.org/risk-career/risk-management-tools-frm-220324
